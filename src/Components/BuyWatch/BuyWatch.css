@@ -1,0 +1,24 @@
+.buy-section {
+  margin-top: 100px;
+}
+.buy-form input {
+  line-height: 50px;
+  width: 100%;
+  margin-bottom: 10px;
+  border: 1px solid #84947e;
+  padding-left: 10px;
+  padding-right: 10px;
+  outline: none;
+}
+.buy-form textarea {
+  width: 100%;
+  border: 1px solid #84947e;
+  padding-left: 10px;
+  padding-right: 10px;
+  outline: none;
+}
+.buy-btn {
+  background-color: #84947e;
+  color: white;
+  font-weight: 700;
+}

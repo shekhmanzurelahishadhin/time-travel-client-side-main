@@ -1,0 +1,72 @@
+[
+  {
+    "nId": 1,
+    "img": "https://i.ibb.co/7Ws0ngz/banner-9.png",
+    "description": "Premium black watch with 2 years warranty also waterproof and also have 2 extra strap",
+    "name": "CASTUS FIESTA",
+    "price": 130
+  },
+  {
+    "nId": 2,
+    "img": "https://i.ibb.co/4FDMc96/cat-1.png",
+    "description": "Premium color watch with 1 years warranty also waterproof and also have 3 extra strap",
+    "name": "DANIEL WELLINGTON",
+    "price": 100
+  },
+  {
+    "nId": 3,
+    "img": "https://i.ibb.co/LJn7CqS/p16-450x450-1.jpg",
+    "description": "Genuine watch with chocolate color strap, waterproof and also have 1 extra strap",
+    "name": "TOMMY HILFIGER",
+    "price": 120
+  },
+  {
+    "nId": 4,
+    "img": "https://i.ibb.co/XzFSCdG/cat-3.png",
+    "description": "Premium silver color watch with 6 month warranty also waterproof and also have 2 extra strap",
+    "name": "MASERATI",
+    "price": 80
+  },
+  {
+    "nId": 5,
+    "img": "https://i.ibb.co/1KXCQ12/cat-2.jpg",
+    "description": "Premium silver color watch with 1 years warranty,not waterproof and 1 extra strap",
+    "name": "TAG HEUER",
+    "price": 90
+  },
+  {
+    "nId": 6,
+    "img": "https://i.ibb.co/zRYH0Kk/cat-4.png",
+    "description": "Premium steel strap black watch with 2 years warranty also waterproof and also have 2 extra strap",
+    "name": "BLACK FOSSIL",
+    "price": 250
+  },
+  {
+    "nId": 7,
+    "img": "https://i.ibb.co/64vt4xW/p28-450x450.jpg",
+    "description": "Premium golden watch with 4 years warranty also waterproof and also have 2 extra strap",
+    "name": "GOLD MINUIT",
+    "price": 300
+  },
+  {
+    "nId": 8,
+    "img": "https://i.ibb.co/2Z5bTZc/Watch12-large.png",
+    "description": "Premium silver watch with 1 years warranty,not waterproof and also have 1 extra strap",
+    "name": "SUMMER SPLASH",
+    "price": 100
+  },
+  {
+    "nId": 9,
+    "img": "https://i.ibb.co/RcfzTxJ/Watch5-0f753270-74d5-471c-b694-5f55d31a0f0e-large.png",
+    "description": "Premium gold and diamond watch with 1 years warranty also waterproof and also have 3 extra strap",
+    "name": "DIAMOND TIME",
+    "price": 150
+  },
+  {
+    "nId": 10,
+    "img": "https://i.ibb.co/ngBgKZV/p24-450x450.jpg",
+    "description": "Premium brown strap watch with 2 years warranty also waterproof and also have 1 extra strap",
+    "name": "TIMBERLAND HERITAGE",
+    "price": 110
+  }
+]

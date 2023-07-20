@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap");
+
+.logo {
+  font-family: "Mochiy Pop One", sans-serif;
+}
+.navbar-section {
+  background-color: #84947e;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: white !important;
+  font-size: 18px;
+}
+
+.nav-link:hover {
+  font-weight: 700;
+}
+.logo {
+  font-size: 25px;
+  color: white !important;
+  font-weight: 700;
+}
+.header-btn {
+  outline: none;
+  border: none;
+  padding: 5px 8px;
+  background-color: white;
+  color: #84947e;
+  border-radius: 3px;
+  margin-left: 5px;
+}
+.active-class {
+  font-weight: 700;
+  border-bottom: 2px solid white;
+}

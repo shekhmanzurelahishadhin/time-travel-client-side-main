@@ -1,0 +1,23 @@
+[
+  {
+    "rId": 1,
+
+    "review": "Best and premium watch collection, I happy to buy my watch from them",
+    "reviewerName": "Mr. Nadir",
+    "rating": 4
+  },
+  {
+    "rId": 2,
+
+    "review": "Premium watch and fast delivery which are the best about Time Travel.",
+    "reviewerName": "Rina Thakur",
+    "rating": 5
+  },
+  {
+    "rId": 3,
+
+    "review": "I brought 3 watches from time travel and it was best services that i ever get.",
+    "reviewerName": "Dina Jems",
+    "rating": 4
+  }
+]
